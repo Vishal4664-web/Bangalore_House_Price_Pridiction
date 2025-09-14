@@ -1,4 +1,4 @@
-Bangalore House Price Prediction:
+# Bangalore House Price Prediction:
 
 This project predicts house prices in Bangalore based on features like BHK (number of bedrooms), square feet area, and location. It uses Machine Learning techniques to analyze housing data and provide accurate price predictions, helping buyers and sellers make informed decisions.
 
